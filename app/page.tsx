@@ -2,7 +2,6 @@
 "use client";
 import React from "react";
 
-
 import { DocumentTextIcon, ShieldCheckIcon, ClockIcon, ArrowPathIcon, ChatBubbleBottomCenterTextIcon, CheckCircleIcon } from '@heroicons/react/24/outline';
 
 export default function Home() {
