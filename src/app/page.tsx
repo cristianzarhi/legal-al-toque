@@ -117,7 +117,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-gray-600">
-                'El servicio superó mis expectativas. Pude generar un contrato profesional en minutos, ahorrando tiempo y dinero.'
+                  &quot;El servicio superó mis expectativas. Pude generar un contrato profesional en minutos, ahorrando tiempo y dinero.&quot;
                 </p>
               </div>
             ))}
